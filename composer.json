@@ -6,9 +6,9 @@
     "require": {
         "php": "^7.4",
         "ext-json": "*",
-        "neos/flow": "7.0",
-        "neos/media": "^7.0",
-        "guzzlehttp/guzzle": "^6.5.8 || ^7.4.5",
+        "neos/flow": "~7.3.0",
+        "neos/media": "~7.3.0",
+        "guzzlehttp/guzzle": "^7.0",
         "behat/transliterator": "~1.0",
         "flownative/oauth2-client": "^4.0.2"
     },
